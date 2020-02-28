@@ -1,0 +1,118 @@
+7.5T ULP
+
+"ro_leakage": {
+        "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.5,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.5,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.45,
+            "vnw": 0.35,
+            "vpw": -0.95
+        },
+        {
+            "process": "SS",
+            "temp": 0,
+            "vdd": 0.45,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.45,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.55,
+            "vnw": 0.05,
+            "vpw": -0.05
+        },
+       {
+            "process": "FF",
+            "temp": 0,
+            "vdd": 0.55,
+            "vnw": 0.05,
+            "vpw": -0.05
+        },
+       {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.55,
+            "vnw": 0.05,
+            "vpw": -0.05
+        },
+
+      {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.4,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.4,
+            "vnw": 0.6,
+            "vpw": -0.6
+        },
+      {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.4,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+       {
+            "process": "SS",
+            "temp": 85,
+            "vdd": 0.4,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 85,
+            "vdd": 0.4,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+       
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.44,
+            "vnw": 0,
+            "vpw": 0
+        },
+      {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.44,
+            "vnw": 0,
+            "vpw": 0
+        },
+       
+       
+        ]
+
+    }
+}
+

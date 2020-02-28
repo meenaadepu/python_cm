@@ -1,0 +1,74 @@
+{
+    "file_location": "D:\\Meena\\Ltv\\22LTV\\2229\\outputs\\rosc_delay",
+    "tracks1": ["ROSC_latch_7P5T_SLVT","ROSC_latch_7P5T_LVT"],
+    "tracks2": ["ROSC_fo3_7P5T_SLVT","ROSC_fo3_7P5T_LVT"],
+    "tracks3": ["ROSC_fo10_7P5T_SLVT","ROSC_fo10_7P5T_LVT"],
+    "tracks4": ["ROSC_clk_q_7P5T_SLVT","ROSC_clk_q_7P5T_LVT"],
+    "tracks": ["ROSC_DELAY_7P5T_SLVT","ROSC_DELAY_7P5T_LVT"],
+
+
+
+"rosc_delay": {
+     "Super Under Drive": [
+          {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.5,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.5,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.45,
+            "vnw": 0.35,
+            "vpw": -0.95
+        },
+        {
+            "process": "SS",
+            "temp": 0,
+            "vdd": 0.45,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.45,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.55,
+            "vnw": 0.05,
+            "vpw": -0.05
+        },
+       {
+            "process": "FF",
+            "temp": 0,
+            "vdd": 0.55,
+            "vnw": 0.05,
+            "vpw": -0.05
+        },
+       {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.55,
+            "vnw": 0.05,
+            "vpw": -0.05
+        }
+
+
+
+       ]
+    }
+}

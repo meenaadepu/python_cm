@@ -1,0 +1,3369 @@
+
+#########################7.5T FO3, FO10 lvt,slvt################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ]
+    }
+}
+
+0.8/0.8
+
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }, 
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+       }  
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+         },
+  		
+      {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }
+        
+      
+
+
+        ]
+    }
+}
+
+0.45/0.45
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+{
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+    
+
+        { 
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+       },
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }       
+                
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+         },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }   
+  		
+
+
+        ]
+    }
+}
+0.5/-0.5 ***nodata
+"Normal Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        
+
+		
+
+
+       ],
+    }
+}
+}
+0.2/-0.2*********nodata
+"Normal Drive": [
+        
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.72,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.72,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+        
+
+		
+
+
+       ],
+    }
+}
+
+
+#########################7.5T Latch, LVT, SLVT ################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+         },
+ {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ],
+     
+    }
+}
+
+0.8/0.8
+
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }, 
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+       }  
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+         }
+  		
+      {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        
+      
+
+
+        ]
+    }
+}
+
+0.45/0.45
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+    
+
+        { 
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+       },
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }       
+                
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+         },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }   
+  		
+
+
+        ]
+    }
+}
+0.05/-0.05
+"Normal Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.05,                                                                                                                                                                                           
+            "vpw": -0.05
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.05,                                                                                                                                                                                           
+            "vpw": -0.05
+        }   
+]
+    }
+}
+0.2/-0.2 ********no sim
+"Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        }
+
+       ],
+"Under Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        }
+
+       ],
+    }
+}
+0.85/-1.15
+"Under Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+        
+
+		
+
+
+       ],
+    }
+}
+
+
+#########################8T CK-->Q HVT, RVT, LVT, SLVT ################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+         },
+ {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ],
+"Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+ {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ],
+ 
+    }
+}
+
+0.8/0.8
+
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }, 
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+       }  
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+         }
+  		
+      {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        
+      
+
+
+        ]
+    }
+}
+
+0.45/0.45
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+    
+
+        { 
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+       },
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }       
+                
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+         },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }   
+  		
+
+
+        ]
+    }
+}
+
+0.2/-0.2 ******nodata
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.2,
+            "vpw": -0.2}
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.2,
+            "vpw": -0.2
+        },
+       
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.2,
+            "vpw": -0.2
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.2,
+            "vpw": -0.2
+        },
+      
+
+
+        ]
+    }
+}
+0.05/-0.05 ********nosim
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.05,
+            "vpw": -0.05}
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.05,
+            "vpw": -0.05
+        },]
+       
+    }
+}
+0.15/-0.15
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15}
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15
+        }]
+       
+    }
+}
+0.5/-0.5
+"Over Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        }  ,
+
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        }   ,
+
+         {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        }    
+]
+    }
+}
+0.85/-1.15 *********nodata
+"rosc_delay": {
+       "Under Drive": [
+          {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15}
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },]
+       
+    }
+}		
+ 0.9/-0.9
+"Over Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }  ,
+
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }   ,
+
+         {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }    
+]
+    }
+}
+ 
+#########################8T FO3, FO10 lvt,slvt################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        }
+
+        
+
+
+        ]
+ "Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        }
+
+        
+
+
+        ]
+    }
+}
+
+0.8/0.8
+
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }, 
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+       }  
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+         },
+  		
+      {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }      
+      
+
+
+        ]
+    }
+}
+
+0.45/0.45
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+{
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+    
+
+        { 
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+       },
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }       
+                
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+         },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }   
+  		
+
+
+        ]
+    }
+}
+
+0.05/-0.05*****nodata
+"Normal Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.05,                                                                                                                                                                                           
+            "vpw": -0.05
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.05,                                                                                                                                                                                           
+            "vpw": -0.05
+        }  
+       ]
+    }
+}
+}
+
+0.5/-0.5
+"Over Drive": [
+        
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        }, {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+
+
+
+0.2/-0.2*******
+"Normal Drive": [
+        
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+        
+
+		
+
+
+       ],
+
+"Under Drive": [
+        
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },   
+
+       ],
+    }
+}
+0.85/-1.15******nodata
+"rosc_delay": {
+       "Under Drive": [
+          {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15}
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },]
+       
+    }
+}		
+ 0.9/-0.9
+"Over Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }  ,
+
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }   ,
+
+         {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }    
+]
+    }
+}
+
+
+#########################8T Latch, LVT, SLVT ################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+       }
+		
+
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0,
+            "vpw": 0
+         },
+ {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        }
+
+        
+
+
+        ]
+"Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+ {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        }
+
+        
+
+
+        ]
+ 
+     
+    }
+}
+
+0.8/0.8
+
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+     {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }, 
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.8,
+            "vpw": -0.8
+       }  
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.8,
+            "vpw": -0.8
+         }
+  		
+      {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.8,
+            "vpw": -0.8
+        }     
+      
+
+
+        ]
+    }
+}
+
+0.45/0.45
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+     {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+           "vnw": 0.45,
+            "vpw": -0.45
+        },
+    
+
+        { 
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+       },
+         {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }       
+                
+
+       ],
+        "Under Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.45,
+            "vpw": -0.45
+         },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.45,
+            "vpw": -0.45
+        }   
+  		
+
+
+        ]
+    }
+}
+0.05/-0.05**************nosim
+"rosc_delay": {
+       "Normal Drive": [
+          {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0.05,
+            "vpw": -0.05}
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0.05,
+            "vpw": -0.05
+        }]
+       
+    }
+}
+
+0.5/-0.5
+"Over Drive": [
+        
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        }, {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0.5,                                                                                                                                                                                           
+            "vpw": -0.5
+        }
+
+ 
+]
+    }
+}
+0.2/-0.2 **************nosim
+"Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        }
+
+       ],
+"Under Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65,
+            "vnw": 0.2,                                                                                                                                                                                           
+            "vpw": -0.2
+        }
+
+       ]
+    }
+}
+0.85/-1.15**********nodata
+"Under Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59,
+            "vnw": 0.85,
+            "vpw": -1.15
+        }
+        
+
+		
+
+
+       ]
+    }
+}
+ 0.9/-0.9
+"Over Drive": [
+        
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }  ,
+
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }   ,
+
+         {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        },
+        {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0.9,                                                                                                                                                                                           
+            "vpw": -0.9
+        }    
+]
+    }
+}
+
+
+
+
+
+##############################################analog LVT#########################
+
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+       }
+		
+
+
+       ],
+      
+"Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        }       
+
+
+        ]
+ 
+     
+    }
+}
+#############################################################################################
+ "rosc_delay_config": [
+
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945
+
+        },
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945
+
+        },
+      {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9
+
+        },
+      {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9
+
+        },
+       {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8
+
+        },
+      {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8
+
+        },{
+            "process": "TT",
+            "temp": 125,
+            "vdd": 0.72
+
+        },
+      {
+            "process": "TT",
+            "temp": -40,
+            "vdd": 0.72
+
+        },
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88
+
+        },
+       {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88
+
+        },
+      {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72
+
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72
+
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76
+
+        },{
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76
+
+        },{
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.65
+
+        },{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.65
+
+        },{
+            "process": "TT",
+            "temp": -40,
+            "vdd": 0.59
+
+        },{
+            "process": "TT",
+            "temp": 125,
+            "vdd": 0.59
+
+        },
+      {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.72
+
+        },{
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.72
+
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.59
+
+        },{
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.59
+
+        },
+      {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81
+
+        },{
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81
+
+        }
+    ]
+}
+
+
+#########################8T FO3, FO10 Hvt,Rvt################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ]
+    }
+}
+#########################8T LATCH Hvt,Rvt################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ]
+    }
+}
+#########################8T CK-->Q Hvt,Rvt################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ]
+    }
+}
+#########################8T Hvt,Rvt################################################
+0/0 
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0,
+            "vpw": 0
+        },         
+   
+         {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.72,
+            "vnw": 0,
+            "vpw": 0
+        },
+       {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.76,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+      {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.88,
+            "vnw": 0,
+            "vpw": 0
+       },
+		
+
+
+       ],
+        "Over Drive": [
+        {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },
+        {
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.9,
+            "vnw": 0,
+            "vpw": 0
+        },        
+
+        {
+            "process": "SS",
+            "temp": -40,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+        },
+         {
+            "process": "SS",
+            "temp": 125,
+            "vdd": 0.81,
+            "vnw": 0,
+            "vpw": 0
+         },
+       {
+            "process": "FF",
+            "temp": 125,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+  		{
+            "process": "FF",
+            "temp": -40,
+            "vdd": 0.945,
+            "vnw": 0,
+            "vpw": 0
+        },
+
+        
+
+
+        ]
+    }
+}
+
+0.45/-0.45
+"rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.45,
+            "vpw": -0.45
+        },   
+0.8/-0.8      
+ "rosc_delay": {
+       "Normal Drive": [
+         {
+            "process": "TT",
+            "temp": 25,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },
+		{
+            "process": "TT",
+            "temp": 85,
+            "vdd": 0.8,
+            "vnw": 0.8,
+            "vpw": -0.8
+        },         
+     
+
+
+
